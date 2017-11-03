@@ -3,11 +3,8 @@ package com.example.ramonsantos.baseexpandableteste;
 import android.support.v4.view.ViewPager;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-import android.util.Log;
-import android.view.View;
-import android.widget.LinearLayout;
 
-import com.example.ramonsantos.baseexpandableteste.ecowalkapp.ImgAdapter;
+import com.example.ramonsantos.baseexpandableteste.ecowalkapp.adaptadores.ImgAdapter;
 
 public class ActivityViewPager extends AppCompatActivity {
     private int[] carros = {R.drawable.ferrari_laferrari, R.drawable.bugatti_veyron, R.drawable.pagani_zonda,

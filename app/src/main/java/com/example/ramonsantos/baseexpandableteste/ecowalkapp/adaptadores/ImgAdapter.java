@@ -1,4 +1,4 @@
-package com.example.ramonsantos.baseexpandableteste.ecowalkapp;
+package com.example.ramonsantos.baseexpandableteste.ecowalkapp.adaptadores;
 
 import android.content.Context;
 import android.support.v4.view.PagerAdapter;
